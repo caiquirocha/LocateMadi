@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "5437053823",
+    "firebase_url": "https://locatemadi.firebaseio.com",
+    "project_id": "locatemadi",
+    "storage_bucket": "locatemadi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5437053823:android:7c9350a59b8f946e",
+        "android_client_info": {
+          "package_name": "com.demo.ritwik.locatemadi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5437053823-t6q2iiglk58nduhs7ns306605di4nioi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.ritwik.locatemadi",
+            "certificate_hash": "4583c4fe3d637d4ee0d15a1e0d5d834257272c83"
+          }
+        },
+        {
+          "client_id": "5437053823-69eap3i52hg49apnevnbi338q89pbtlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk4Dli9esu-cjl6pNa-A4lcBXJs_XN6EM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5437053823-69eap3i52hg49apnevnbi338q89pbtlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
